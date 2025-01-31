@@ -50,7 +50,7 @@ project_folder/
 
 ## Usage
 
-## Using Streamlit App
+### Using Streamlit App
 
 1. Run
   ```
@@ -60,7 +60,7 @@ project_folder/
 3. Open your browser at the URL shown in the terminal (usually `http://localhost:8501`).
 4. Enter a valid ticker symbol (e.g., `AAPL`), set your desired date range and parameters, then click Predict.
 
-## Using PyQt6 GUI
+### Using PyQt6 GUI
 
 1. Run
    ```
