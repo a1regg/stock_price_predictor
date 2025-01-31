@@ -1,6 +1,6 @@
 # LSTM Stock/Asset Price Predictor
 
-Еру project that demonstrates how to use **Long Short-Term Memory (LSTM)** networks for stock (or other financial asset) price prediction. It provides two interfaces:
+The project that demonstrates how to use **Long Short-Term Memory (LSTM)** networks for stock (or other financial asset) price prediction. It provides two interfaces:
 1. A **Streamlit**-based web application (`model.py`) to visualize training/test predictions and future forecasts.
 2. A **PyQt6** desktop application (`gui.py`) with an interactive user interface for generating predictions.
 
