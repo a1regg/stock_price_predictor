@@ -33,8 +33,10 @@ project_folder/
 ## Installation
 
 1. **Clone the Repository**
-`git clone https://github.com/username/stock-predictor.git
- cd stock-predictor`
+```
+  git clone https://github.com/username/stock-predictor.git
+  cd stock-predictor
+```
 
 2. **Create virtual environment(optional):**
    ```
@@ -51,20 +53,20 @@ project_folder/
 # Using Streamlit App
 
 1. Run
-  `
+  ```
   cd src
   streamlit run model.py
-  `
+  ```
 3. Open your browser at the URL shown in the terminal (usually `http://localhost:8501`).
 4. Enter a valid ticker symbol (e.g., `AAPL`), set your desired date range and parameters, then click Predict.
 
 # Using PyQt6 GUI
 
 1. Run
-   `
+   ```
    cd src
    python gui.py
-   `
+   ```
 3. A desktop window will appear with text fields and spin boxes for your inputs.
 4. Click **Predict** to train the model and view the plots.
 
