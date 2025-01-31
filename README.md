@@ -19,14 +19,14 @@
 ---
 
 ## Project Structure
-`
+```
 project_folder/
 ├── src/
 │   ├── model.py                # Core model training + Streamlit UI 
 │   ├── gui.py                  # PyQt6 GUI for real-time stock prediction
 ├── requirements.txt            # Python dependencies for the project
 └── README.md                   # Project documentation
-`
+```
 
 ---
 
