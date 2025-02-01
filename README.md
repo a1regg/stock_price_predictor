@@ -34,7 +34,7 @@ project_folder/
 
 1. **Clone the Repository**
 ```
-  git clone https://github.com/username/stock_price_predictor.git
+  git clone https://github.com/a1regg/stock_price_predictor.git
   cd stock_price_predictor
 ```
 
