@@ -34,8 +34,8 @@ project_folder/
 
 1. **Clone the Repository**
 ```
-  git clone https://github.com/username/stock-predictor.git
-  cd stock-predictor
+  git clone https://github.com/username/stock_price_predictor.git
+  cd stock_price_predictor
 ```
 
 2. **Create virtual environment(optional):**
